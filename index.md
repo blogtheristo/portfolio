@@ -1,4 +1,7 @@
-## Welcome to Lifetime Group Project Portfolio Pages
+#Lifetime Group
+## Project Portfolio Pages
+### Welcome to Lifetime Group Project Portfolio Pages
+This page is mainly intended for our Consortium Partners.
 
 [editor on GitHub](https://github.com/blogtheristo/portfolio/edit/gh-pages/index.md)
 
