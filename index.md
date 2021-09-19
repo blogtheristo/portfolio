@@ -25,21 +25,23 @@ for evaluation purposes only.
 1. Updated Project Status are available at the Project Kanban
 2. If you want to become a project partner or freelance contributor please contact @blogtheristo.
 
-## Note from blogtheristo 
+## A Note from the Author blogtheristo 
  
- _Keep on Rockin' and keep up the good work_ 
+ _"Keep on Rockin' while keep up the Good Work"_ 
  
-``` version 0.11 ```
+version 0.11
 
 # Lifetime Group 
 ## Lifetime Studios
 ## Lifetime Consulting
 ### Project Portfolio Pages
 ### by blogtheristo and the Consulting team
+[@LifetimeOy](https://twitter.com/LifetimeOy)
+![Lifetime Group](https://images.squarespace-cdn.com/content/v1/54c48881e4b0d7a7fa7eddf4/1632071434059-8XIJW8CRMWNF5JIXN7ND/Lifetime+Group-logo_22.png?format=1500w)
 
-```[Link](url) and ![Image](src) [GitHub Markdown](https://guides.github.com/features/mastering-markdown/) ```
-```Jekyll Themes. Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blogtheristo/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file```
-```Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/)```
+
+_Jekyll Themes. Pages site use the layout and styles from the Jekyll theme as its selected in [repository settings](https://github.com/blogtheristo/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file
+Whenever contributor commit to Portfolio Pages repository, GitHub Pages Service will run [Jekyll](https://jekyllrb.com/)
 
 ### Support Information
 Having trouble with Lifetime Studios Project Portfolio Pages? 
