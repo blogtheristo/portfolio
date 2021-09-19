@@ -10,15 +10,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdown Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Operations Notes
 - Projects are listed as GitHub Projects
 - Actions are available for some Projects
 - More information is found from Project Portfolio Wiki.
-- 
+- DevOps Environment is built for each project separetely.
 
-1. Updated Project Status are availablea at the Project Kanban
+## 
+1. Updated Project Status are available at the Project Kanban
 2. If you want to become a contributor contact blogtheristo.
 3. **Thank you of being a lifetime friend.**
  
