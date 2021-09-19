@@ -19,21 +19,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Project Information
 1. Updated Project Status are available at the Project Kanban
 2. If you want to become a project partner or freelance contributor please contact @blogtheristo.
-3. **Thank you of being a lifetime friend.**
+
  
  _Keep up the good work_  
- `version 0.1`
+ `version 0.11`
 lifetime group portfolio pages
 
 [Link](url) and ![Image](src)
 ```
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[GitHub Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blogtheristo/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support
+Having trouble with Lifetime Studios Project Portfolio Pages? 
+Check out GitHub Pages [documentation](https://docs.github.com/categories/github-pages-basics/)  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/)  
+### Contact Project Office
 [contact support](https://lifetime.fi/contact)
+**Thank you of being a lifetime friend.
