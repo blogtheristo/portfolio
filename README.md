@@ -12,4 +12,8 @@ Find Portfolio GitHub Projects here link https://github.com/blogtheristo/portfol
 
 Find Portfolio Wiki here link https://github.com/blogtheristo/portfolio/wiki
 
+Find Lifetime Certified Partner Consortium Roles here https://github.com/blogtheristo/portfolio
+
+Find Lifetime Group Official Logo here https://github.com/blogtheristo/Logo_2022
+
 ### Visit Lifetime Group World Wide Web (WWWW) Pages: link https://lifetime.fi/
