@@ -1,10 +1,13 @@
 # Lifetime Group 
 ## Lifetime Studios
 ### Project Portfolio Readme
-### Version 0.12
+### Version 0.12a
 
 Project Portfolio Pages Readme 
-by blogtheristo.
+by blogtheristo
+### Lifetime Studios
+How to read GitHub?
+Here is tutorial.
 
 Customers and Partners: How we create value? https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf
 
