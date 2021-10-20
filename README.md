@@ -26,4 +26,4 @@ Find Lifetime Certified Partner Consortium Roles here <https://github.com/blogth
 
 Find Lifetime Group Official Logo here <https://github.com/blogtheristo/Logo_2022>
 
-### Visit Lifetime Group World Wide Web (WWWW) Pages: link <https://lifetime.fi/>
+### Visit Lifetime Group World Wide Web (WWW) Pages: link <https://lifetime.fi/>
