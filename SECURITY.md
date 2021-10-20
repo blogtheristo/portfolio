@@ -1,5 +1,7 @@
 # Security Policy
+
 ## Project Portfolio Pages
+
 ### blogtheristo
 
 ## Supported Versions
@@ -17,8 +19,8 @@ currently being supported with security updates.
 ## How to report a Vulnerability ?
 
 to tell us how to report a vulnerability found on the Project Portfolio Pages.
-send email to blogtheristo@lifetime.fi or 
+send email to blogtheristo@lifetime.fi or
 send message from our Customer Support Pages
-link (https://lifetime.fi/contact)
+link (<https://lifetime.fi/contact>)
 
-### Thank you of being a lifetime friend !
+### Thank you of being a lifetime friend
