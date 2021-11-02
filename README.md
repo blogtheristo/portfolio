@@ -11,10 +11,8 @@ by blogtheristo
 
 ### Lifetime Consulting
 
-How to read GitHub?
-Here is tutorial.
 
-Customers and Partners: How we create value? <https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>
+[Customers and Partners: How do we create value?](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>)
 
 Find Portfolio GitHub Pages here <https://blogtheristo.github.io/portfolio/>
 
