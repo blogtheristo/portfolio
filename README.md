@@ -4,7 +4,7 @@
 
 ### Project Portfolio Readme
 
-### Version 0.12a
+### Version 0.14a
 
 Project Portfolio Pages Readme
 by blogtheristo
@@ -14,14 +14,17 @@ by blogtheristo
 
 [Customers and Partners: How do we create value?](<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>)
 
-Find Portfolio GitHub Pages here <https://blogtheristo.github.io/portfolio/>
+[Blogtheristo's Portfolio GitHub Pages](<https://blogtheristo.github.io/portfolio/>)
 
-Find Portfolio GitHub Projects here link <https://github.com/blogtheristo/portfolio/projects>
+[Portfolio GitHub Projects](<https://github.com/blogtheristo/portfolio/projects>)
 
-Find Portfolio Wiki here link <https://github.com/blogtheristo/portfolio/wiki>
+[Portfolio Wiki](<https://github.com/blogtheristo/portfolio/wiki>)
 
-Find Lifetime Certified Partner Consortium Roles here <https://github.com/blogtheristo/portfolio>
+[Lifetime Certified Partner Consortium Roles](<https://github.com/blogtheristo/portfolio/roles>)
 
-Find Lifetime Group Official Logo here <https://github.com/blogtheristo/Logo_2022>
+[Lifetime Group Official Logo](<https://github.com/blogtheristo/Logo_2022>)
 
-### Visit Lifetime Group World Wide Web (WWW) Pages: link <https://lifetime.fi/>
+
+### Lifetime Group World Wide Web (WWW) Page: 
+
+[here](<https://lifetime.fi/>)
