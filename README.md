@@ -22,7 +22,8 @@ by blogtheristo
 
 [Lifetime Certified Partner Consortium Roles](<https://github.com/blogtheristo/portfolio/roles>)
 
-[Lifetime Group Official Logo](<https://github.com/blogtheristo/Logo_2022>)
+[Lifetime Group Official Logo](https://github.com/blogtheristo/portfolio/blob/fb607930e9bce81b40eb3b7af6dd16de4adae988/Logo_2022/Lifetime%20Group-logo_22.png)
+
 
 
 ### Lifetime Group World Wide Web (WWW) Page: 
